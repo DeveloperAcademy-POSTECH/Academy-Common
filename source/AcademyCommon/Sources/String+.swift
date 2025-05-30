@@ -6,7 +6,7 @@
 //
 
 extension String {
-    var howard: String {
+    internal var howard: String {
         "howard"
     }
 }
