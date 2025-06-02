@@ -13,4 +13,8 @@ extension String {
     public var judy: String {
         "judy"
     }
+    
+    public var wonjun: String {
+        "wonjun"
+    }
 }
