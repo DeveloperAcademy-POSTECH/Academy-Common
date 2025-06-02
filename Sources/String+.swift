@@ -9,4 +9,8 @@ extension String {
     public var howard: String {
         "howard"
     }
+    
+    public var judy: String {
+        "judy"
+    }
 }
